@@ -1,0 +1,807 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Free C++ Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:39:02Z",
+            "owner": "getvmio",
+            "repo": "free-cpp-resources",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Networking Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:22Z",
+            "owner": "getvmio",
+            "repo": "free-networking-resources",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free DevOps Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:51Z",
+            "owner": "getvmio",
+            "repo": "free-devops-resources",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Object-Oriented Programming Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:22Z",
+            "owner": "getvmio",
+            "repo": "free-object-oriented-programming-resources",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free C Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:39:34Z",
+            "owner": "getvmio",
+            "repo": "free-c-resources",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Python Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:05Z",
+            "owner": "getvmio",
+            "repo": "free-python-resources",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Computer Science Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:34:51Z",
+            "owner": "getvmio",
+            "repo": "free-computer-science-resources",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Computer Architecture Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:20Z",
+            "owner": "getvmio",
+            "repo": "free-computer-architecture-resources",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Operating System Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:32Z",
+            "owner": "getvmio",
+            "repo": "free-operating-system-resources",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Machine Learning Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:35Z",
+            "owner": "getvmio",
+            "repo": "free-machine-learning-resources",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Robotics Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:04Z",
+            "owner": "getvmio",
+            "repo": "free-robotics-resources",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Computer Vision Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:10Z",
+            "owner": "getvmio",
+            "repo": "free-computer-vision-resources",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Bash Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:39:08Z",
+            "owner": "getvmio",
+            "repo": "free-bash-resources",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Algorithm Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:39:20Z",
+            "owner": "getvmio",
+            "repo": "free-algorithm-resources",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Database Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:39:26Z",
+            "owner": "getvmio",
+            "repo": "free-database-resources",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Linux Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:39:45Z",
+            "owner": "getvmio",
+            "repo": "free-linux-resources",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Cryptography Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:38Z",
+            "owner": "getvmio",
+            "repo": "free-cryptography-resources",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Blockchain Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:51Z",
+            "owner": "getvmio",
+            "repo": "free-blockchain-resources",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Cloud Computing Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:22Z",
+            "owner": "getvmio",
+            "repo": "free-cloud-computing-resources",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Artificial Intelligence Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:46Z",
+            "owner": "getvmio",
+            "repo": "free-artificial-intelligence-resources",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Java Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:34:33Z",
+            "owner": "getvmio",
+            "repo": "free-java-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free PyTorch Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:14Z",
+            "owner": "getvmio",
+            "repo": "free-pytorch-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Software Development Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:04Z",
+            "owner": "getvmio",
+            "repo": "free-software-development-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Data Science Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:10Z",
+            "owner": "getvmio",
+            "repo": "free-data-science-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Distributed Systems Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:40Z",
+            "owner": "getvmio",
+            "repo": "free-distributed-systems-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Docker Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:57Z",
+            "owner": "getvmio",
+            "repo": "free-docker-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Deep Learning Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:16Z",
+            "owner": "getvmio",
+            "repo": "free-deep-learning-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Data Analysis Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:51Z",
+            "owner": "getvmio",
+            "repo": "free-data-analysis-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free React Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:34:57Z",
+            "owner": "getvmio",
+            "repo": "free-react-resources",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Compiler Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:44Z",
+            "owner": "getvmio",
+            "repo": "free-compiler-resources",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Programming Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:17Z",
+            "owner": "getvmio",
+            "repo": "free-programming-resources",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Shell Scripting Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:47Z",
+            "owner": "getvmio",
+            "repo": "free-shell-scripting-resources",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Embedded Systems Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:46Z",
+            "owner": "getvmio",
+            "repo": "free-embedded-systems-resources",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Go Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:29Z",
+            "owner": "getvmio",
+            "repo": "free-go-resources",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free JavaScript Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:34:14Z",
+            "owner": "getvmio",
+            "repo": "free-javascript-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free HTML Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:34:20Z",
+            "owner": "getvmio",
+            "repo": "free-html-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free R Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:34:25Z",
+            "owner": "getvmio",
+            "repo": "free-r-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Neural Networks Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:34:39Z",
+            "owner": "getvmio",
+            "repo": "free-neural-networks-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Natural Language Processing Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:34:45Z",
+            "owner": "getvmio",
+            "repo": "free-natural-language-processing-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Security Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:03Z",
+            "owner": "getvmio",
+            "repo": "free-security-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Node.js Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:09Z",
+            "owner": "getvmio",
+            "repo": "free-node-js-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Functional Programming Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:26Z",
+            "owner": "getvmio",
+            "repo": "free-functional-programming-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free SQL Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:35:57Z",
+            "owner": "getvmio",
+            "repo": "free-sql-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Unix Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:10Z",
+            "owner": "getvmio",
+            "repo": "free-unix-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Web Development Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:41Z",
+            "owner": "getvmio",
+            "repo": "free-web-development-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Git Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:17Z",
+            "owner": "getvmio",
+            "repo": "free-git-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Data Structures Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:34Z",
+            "owner": "getvmio",
+            "repo": "free-data-structures-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Control Systems Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:40Z",
+            "owner": "getvmio",
+            "repo": "free-control-systems-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Computer Graphics Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:39:53Z",
+            "owner": "getvmio",
+            "repo": "free-computer-graphics-resources",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free CSS Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:28Z",
+            "owner": "getvmio",
+            "repo": "free-css-resources",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Rust Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:53Z",
+            "owner": "getvmio",
+            "repo": "free-rust-resources",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Haskell Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:36:58Z",
+            "owner": "getvmio",
+            "repo": "free-haskell-resources",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Game Development Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:28Z",
+            "owner": "getvmio",
+            "repo": "free-game-development-resources",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free TensorFlow Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:35Z",
+            "owner": "getvmio",
+            "repo": "free-tensorflow-resources",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Ruby Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:38:57Z",
+            "owner": "getvmio",
+            "repo": "free-ruby-resources",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Version Control Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-01T01:39:40Z",
+            "owner": "getvmio",
+            "repo": "free-version-control-resources",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "More"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:25:22.422Z",
+    "original_repository": "getvmio/free-cybersecurity-resources",
+    "original_repository_sha": "a9f1e95e28bf183746bc92ead51db20321a820ae",
+    "enhanced_repository": "enhansome/enhansome-free-cybersecurity-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cybersecurity Free Resources with stars"
+  }
+}
