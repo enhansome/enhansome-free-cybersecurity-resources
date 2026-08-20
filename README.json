@@ -380,6 +380,21 @@
         },
         {
           "node_type": "item",
+          "title": "Free Embedded Systems Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822447370,
+            "language": null,
+            "last_commit": "2025-05-01T01:37:46Z",
+            "owner": "getvmio",
+            "repo": "free-embedded-systems-resources",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Free Docker Resources",
           "description": null,
           "children": [],
@@ -480,21 +495,6 @@
             "last_commit": "2025-05-01T01:36:47Z",
             "owner": "getvmio",
             "repo": "free-shell-scripting-resources",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Free Embedded Systems Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 822447370,
-            "language": null,
-            "last_commit": "2025-05-01T01:37:46Z",
-            "owner": "getvmio",
-            "repo": "free-embedded-systems-resources",
             "stars": 2
           }
         },
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:51.905Z",
+    "last_updated": "2026-08-20T13:00:12.023Z",
     "original_repository": "getvmio/free-cybersecurity-resources",
     "original_repository_id": 822448303,
     "original_repository_sha": "a9f1e95e28bf183746bc92ead51db20321a820ae",
