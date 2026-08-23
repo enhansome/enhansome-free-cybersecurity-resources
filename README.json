@@ -35,6 +35,21 @@
         },
         {
           "node_type": "item",
+          "title": "Free C Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 822448524,
+            "language": null,
+            "last_commit": "2025-05-01T01:39:34Z",
+            "owner": "getvmio",
+            "repo": "free-c-resources",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Free DevOps Resources",
           "description": null,
           "children": [],
@@ -60,21 +75,6 @@
             "last_commit": "2025-05-01T01:36:22Z",
             "owner": "getvmio",
             "repo": "free-object-oriented-programming-resources",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Free C Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 822448524,
-            "language": null,
-            "last_commit": "2025-05-01T01:39:34Z",
-            "owner": "getvmio",
-            "repo": "free-c-resources",
             "stars": 9
           }
         },
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T12:50:16.932Z",
+    "last_updated": "2026-08-23T12:51:52.287Z",
     "original_repository": "getvmio/free-cybersecurity-resources",
     "original_repository_id": 822448303,
     "original_repository_sha": "a9f1e95e28bf183746bc92ead51db20321a820ae",
