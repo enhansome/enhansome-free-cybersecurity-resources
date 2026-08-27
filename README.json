@@ -848,9 +848,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:03:54.640Z",
-    "original_repository": "getvmio/free-cybersecurity-resources",
-    "original_repository_id": 822448303,
+    "last_updated": "2026-08-27T11:42:29.310Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 822448303,
+      "language": null,
+      "last_commit": "2025-05-01T01:39:14Z",
+      "owner": "getvmio",
+      "repo": "free-cybersecurity-resources",
+      "stars": 65
+    },
     "original_repository_sha": "a9f1e95e28bf183746bc92ead51db20321a820ae",
     "enhanced_repository": "enhansome/enhansome-free-cybersecurity-resources",
     "enhanced_repository_description": null,
