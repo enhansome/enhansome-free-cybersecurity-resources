@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ Free Resources | This repo collects 52 of free resources for C++. 🚀 Elevate your C++ skills with our C++ Mastery repository! Packed with extensive free resources and featuring an interactive online Playground, this is your one-stop-shop for mastering the intricacies of C++. Perfect for beginn...",
+            "homepage": "https://getvm.io/tutorials/category/cpp",
             "id": 822448186,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:39:02Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-cpp-resources",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "awesome-list",
+              "cpp",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Networking Free Resources | This repo collects 32 of free resources for Networking. 🌐 Connect with the world of computer networks through our Networking Nexus repository! Discover a comprehensive library of free networking resources and courses. With our interactive online playground, master the ...",
+            "homepage": "https://getvm.io/tutorials/category/networking",
             "id": 822447116,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:22Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-networking-resources",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "networking",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -42,12 +66,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C Free Resources | This repo collects 66 of free resources for C. 🛠️ Master the foundational language of computing with our C Programming Forge! This repository offers a comprehensive library of free C resources and an interactive online playground. Perfect for beginners learning their first lang...",
+            "homepage": "https://getvm.io/tutorials/category/c",
             "id": 822448524,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:39:34Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-c-resources",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "awesome-list",
+              "c",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -58,12 +94,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DevOps Free Resources | This repo collects 11 of free resources for DevOps. 🔄 Streamline your development and operations with our DevOps Dojo repository! Offering a comprehensive collection of free DevOps resources and an online Playground, this is your training ground for mastering the practices...",
+            "homepage": "https://getvm.io/tutorials/category/devops",
             "id": 822447431,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:51Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-devops-resources",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "awesome-list",
+              "devops",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -74,12 +122,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object-Oriented Programming Free Resources | This repo collects 33 of free resources for Object-Oriented Programming. 🏛️ Embark on an Object-Oriented Programming journey with our OOP Odyssey repository! Dive into a comprehensive collection of free resources and courses on OOP principles and pract...",
+            "homepage": "https://getvm.io/tutorials/category/object-oriented-programming",
             "id": 822446417,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:22Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-object-oriented-programming-resources",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "object-oriented-programming",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -90,12 +150,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Free Resources | This repo collects 177 of free resources for Python. 🐍 Slither into the world of Python with our Python Playground repository! Discover the best free Python courses and resources to master this versatile language. Whether you're a beginner or looking to level up your skill...",
+            "homepage": "https://getvm.io/tutorials/category/python",
             "id": 822446237,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:05Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-python-resources",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -106,12 +178,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computer Science Free Resources | This repo collects 75 of free resources for Computer Science. 💻 Explore the foundations of computing with our Computer Science Hub! This repository features a curated collection of free educational resources covering various CS topics. With an interactive online ...",
+            "homepage": "https://getvm.io/tutorials/category/computer-science",
             "id": 822445464,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:34:51Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-computer-science-resources",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "awesome-list",
+              "computer-science",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -122,12 +206,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computer Architecture Free Resources | This repo collects 18 of free resources for Computer Architecture. 🏗️ Uncover the foundations of computing with our Computer Architecture Blueprint repository! Featuring an extensive collection of free resources, courses, and an online Playground, this is yo...",
+            "homepage": "https://getvm.io/tutorials/category/computer-architecture",
             "id": 822445780,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:20Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-computer-architecture-resources",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "awesome-list",
+              "computer-architecture",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -138,12 +234,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Operating System Free Resources | This repo collects 36 of free resources for Operating System. 🖥️ Delve into the core of computing with our OS Kernel repository! Offering a comprehensive collection of free resources on operating systems and an interactive online playground, this is your lab for ...",
+            "homepage": "https://getvm.io/tutorials/category/operating-system",
             "id": 822445912,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:32Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-operating-system-resources",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "operating-system",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -154,12 +262,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning Free Resources | This repo collects 212 of free resources for Machine Learning. 🤖 Unlock the potential of intelligent systems with our Machine Learning Lab repository! Featuring a curated collection of free resources and an online Playground, this is your experimental ground for ...",
+            "homepage": "https://getvm.io/tutorials/category/machine-learning",
             "id": 822446562,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:35Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-machine-learning-resources",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "machine-learning",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -170,12 +290,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robotics Free Resources | This repo collects 39 of free resources for Robotics. 🤖 Bring machines to life with our Robotics Workshop repository! Explore free resources and an online playground covering essential robotics concepts. From kinematics to computer vision, build your skills and bring you...",
+            "homepage": "https://getvm.io/tutorials/category/robotics",
             "id": 822447554,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:04Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-robotics-resources",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -186,12 +318,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computer Vision Free Resources | This repo collects 41 of free resources for Computer Vision. 👁️ See the world through algorithmic eyes with our Computer Vision Lab repository! Dive into a comprehensive collection of free resources and an interactive online Playground. Perfect for developers and ...",
+            "homepage": "https://getvm.io/tutorials/category/computer-vision",
             "id": 822447608,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:10Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-computer-vision-resources",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "awesome-list",
+              "computer-vision",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -202,12 +346,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bash Free Resources | This repo collects 14 of free resources for Bash. 🖥️ Conquer the command line with our Bash Commander repository! Explore a rich collection of free Bash learning materials and sharpen your skills in our online playground. Essential for system administrators, developers, and ...",
+            "homepage": "https://getvm.io/tutorials/category/bash",
             "id": 822448254,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:39:08Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-bash-resources",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "awesome-list",
+              "bash",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -218,12 +374,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithm Free Resources | This repo collects 116 of free resources for Algorithm. 🧩 Master the art of problem-solving with our Algorithm Playground! This repository offers a vast array of free algorithm resources, courses, and an online practice environment. Essential for computer science studen...",
+            "homepage": "https://getvm.io/tutorials/category/algorithm",
             "id": 822448373,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:39:20Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-algorithm-resources",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "algorithm",
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -234,12 +402,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database Free Resources | This repo collects 38 of free resources for Database. 🗃️ Dive into the world of data management with our Database Explorer repository! Offering a curated collection of free courses and resources, along with an interactive online playground, this is your compass for navig...",
+            "homepage": "https://getvm.io/tutorials/category/database",
             "id": 822448455,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:39:26Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-database-resources",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "awesome-list",
+              "database",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -250,12 +430,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux Free Resources | This repo collects 54 of free resources for Linux. 🐧 Embark on your Linux journey with our Linux Laboratory repository! Featuring an extensive library of free resources and an interactive online Playground, this is your command center for mastering the world's most popular ...",
+            "homepage": "https://getvm.io/tutorials/category/linux",
             "id": 822448627,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:39:45Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-linux-resources",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "linux",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -266,12 +458,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cryptography Free Resources | This repo collects 17 of free resources for Cryptography. 🔐 Unravel the secrets of secure communication with our Cryptography Codex! This repository offers a curated collection of free resources, online courses, and an interactive playground environment. Perfect for ...",
+            "homepage": "https://getvm.io/tutorials/category/cryptography",
             "id": 822445967,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:38Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-cryptography-resources",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "awesome-list",
+              "cryptography",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -282,12 +486,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blockchain Free Resources | This repo collects 25 of free resources for Blockchain. ⛓️ Dive into the revolutionary world of distributed ledger technology with our Blockchain Bootcamp! This repository offers a comprehensive collection of free courses, tutorials, and an interactive online Playgroun...",
+            "homepage": "https://getvm.io/tutorials/category/blockchain",
             "id": 822446080,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:51Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-blockchain-resources",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "awesome-list",
+              "blockchain",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -298,12 +514,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud Computing Free Resources | This repo collects 13 of free resources for Cloud Computing. ☁️ Ascend to new heights with our Cloud Computing Skyline repository! Dive into comprehensive educational resources on cloud technologies and explore real-world cloud environments in our interactive play...",
+            "homepage": "https://getvm.io/tutorials/category/cloud-computing",
             "id": 822447751,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:22Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-cloud-computing-resources",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "awesome-list",
+              "cloud-computing",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -314,12 +542,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Artificial Intelligence Free Resources | This repo collects 48 of free resources for Artificial Intelligence. 🧠 Embark on your Artificial Intelligence journey with GetVM's AI Explorer! This repository is your gateway to cutting-edge AI technologies, featuring a rich collection of free resources, ...",
+            "homepage": "https://getvm.io/tutorials/category/artificial-intelligence",
             "id": 822448006,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:46Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-artificial-intelligence-resources",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "artificial-intelligence",
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -330,12 +570,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Free Resources | This repo collects 54 of free resources for Java. ☕ Forge your Java skills with GetVM's Java Forge repository! Featuring a rich collection of free resources and an online Playground, this is your ultimate destination for Java mastery. Ideal for beginners and experienced deve...",
+            "homepage": "https://getvm.io/tutorials/category/java",
             "id": 822445273,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:34:33Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-java-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "java",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -346,12 +598,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Free Resources | This repo collects 16 of free resources for PyTorch. 🔥 Ignite your machine learning projects with our PyTorch Lab! This repository offers a wealth of free PyTorch resources and an interactive online Playground. Ideal for AI researchers, data scientists, and developers div...",
+            "homepage": "https://getvm.io/tutorials/category/pytorch",
             "id": 822445714,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:14Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-pytorch-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -362,12 +626,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software Development Free Resources | This repo collects 29 of free resources for Software Development. 🏗️ Elevate your software development skills with our Software Engineering Institute repository! Featuring an extensive library of free courses and hands-on learning tools, this is your academy ...",
+            "homepage": "https://getvm.io/tutorials/category/software-development",
             "id": 822446932,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:04Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-software-development-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "software-development"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -378,12 +654,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Science Free Resources | This repo collects 50 of free resources for Data Science. 📊 Uncover insights from data with our Data Science Lab repository! Offering a comprehensive collection of free resources and an interactive online Playground, this is your research center for mastering data an...",
+            "homepage": "https://getvm.io/tutorials/category/data-science",
             "id": 822446992,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:10Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-data-science-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome-list",
+              "data-science",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -394,12 +682,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Systems Free Resources | This repo collects 13 of free resources for Distributed Systems. 🌐 Scale your knowledge with our Distributed Systems Network repository! Dive into a comprehensive collection of free resources and an online Playground focused on distributed computing. Master th...",
+            "homepage": "https://getvm.io/tutorials/category/distributed-systems",
             "id": 822447310,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:40Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-distributed-systems-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome-list",
+              "distributed-systems",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -410,12 +710,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded Systems Free Resources | This repo collects 14 of free resources for Embedded Systems. 🔌 Bring hardware to life with our Embedded Systems Lab repository! Explore a curated collection of free resources and courses on embedded programming and system design. With an interactive online Playg...",
+            "homepage": "https://getvm.io/tutorials/category/embedded-systems",
             "id": 822447370,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:46Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-embedded-systems-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome-list",
+              "embedded-systems",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -426,12 +738,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker Free Resources | This repo collects 14 of free resources for Docker. 🐳 Containerize your applications with our Docker Dock repository! Featuring a comprehensive collection of free Docker resources and an interactive online playground, this is your harbor for learning how to build, ship, an...",
+            "homepage": "https://getvm.io/tutorials/category/docker",
             "id": 822447480,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:57Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-docker-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome-list",
+              "docker",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -442,12 +766,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning Free Resources | This repo collects 76 of free resources for Deep Learning. 🧠 Plumb the depths of AI with our Deep Learning Nexus repository! Explore a comprehensive collection of free resources on neural networks and deep learning architectures. With our online Playground, implemen...",
+            "homepage": "https://getvm.io/tutorials/category/deep-learning",
             "id": 822447673,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:16Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-deep-learning-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome-list",
+              "deep-learning",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -458,12 +794,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Analysis Free Resources | This repo collects 15 of free resources for Data Analysis. 📊 Unlock the power of data with our Data Analysis Toolkit! This repository offers a comprehensive suite of free resources, courses, and an online playground to help you master data analysis techniques. From ...",
+            "homepage": "https://getvm.io/tutorials/category/data-analysis",
             "id": 822448068,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:51Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-data-analysis-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome-list",
+              "data-analysis",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -474,12 +822,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Free Resources | This repo collects 27 of free resources for React. ⚛️ Build modern user interfaces with our React Workshop repository! Packed with a wealth of free React resources and an online playground, this is your go-to place for mastering this essential web development library. Ideal...",
+            "homepage": "https://getvm.io/tutorials/category/react",
             "id": 822445534,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:34:57Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-react-resources",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -490,12 +850,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiler Free Resources | This repo collects 54 of free resources for Compiler. 🛠️ Build the tools that build our software with the Compiler Construction Kit! This repository houses comprehensive resources on compiler design and implementation. Featuring free courses and an interactive online pla...",
+            "homepage": "https://getvm.io/tutorials/category/compiler",
             "id": 822446028,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:44Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-compiler-resources",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "awesome-list",
+              "compiler",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -506,12 +878,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming Free Resources | This repo collects 232 of free resources for Programming. 🧰 Sharpen your programming skills across multiple languages with our Coder's Toolkit repository! Featuring a comprehensive collection of free programming resources, online courses, and a user-friendly playgroun...",
+            "homepage": "https://getvm.io/tutorials/category/programming",
             "id": 822446363,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:17Z",
+            "open_issues": 1,
             "owner": "getvmio",
             "repo": "free-programming-resources",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -522,12 +905,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shell Scripting Free Resources | This repo collects 12 of free resources for Shell Scripting. 🐚 Automate your world with our Shell Scripting Forge repository! Dive into comprehensive resources and an interactive playground for mastering shell scripting. Perfect for system administrators, DevOps e...",
+            "homepage": "https://getvm.io/tutorials/category/shell-scripting",
             "id": 822446728,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:47Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-shell-scripting-resources",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "shell-scripting"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -538,12 +933,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go Free Resources | This repo collects 29 of free resources for Go. 🐹 Embrace simplicity and efficiency with our Go Playground repository! Discover a rich collection of free resources for learning and mastering Go programming. With its focus on simplicity and powerful concurrency support, this re...",
+            "homepage": "https://getvm.io/tutorials/category/go",
             "id": 822447808,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:29Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-go-resources",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "go",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -554,12 +961,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Free Resources | This repo collects 116 of free resources for JavaScript. 🏋️ Flex your web development muscles in our JavaScript Gymnasium repository! Offering a wide range of free JavaScript resources and an online playground, this is your training center for mastering the language th...",
+            "homepage": "https://getvm.io/tutorials/category/javascript",
             "id": 822386167,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:34:14Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-javascript-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "javascript",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -570,12 +989,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML Free Resources | This repo collects 31 of free resources for HTML. 🌐 Build the web with HTML Architect! This repository houses a comprehensive collection of free HTML courses and resources. From basic structure to advanced techniques, find everything you need to create stunning, accessible w...",
+            "homepage": "https://getvm.io/tutorials/category/html",
             "id": 822440793,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:34:20Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-html-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "html",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -586,12 +1017,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R Free Resources | This repo collects 15 of free resources for R. 📈 Dive into data science with our R Studio repository! Packed with a comprehensive collection of free R resources and online tools, this is your go-to place for mastering R programming. Perfect for statisticians, data analysts, and...",
+            "homepage": "https://getvm.io/tutorials/category/r",
             "id": 822445204,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:34:25Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-r-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "r"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -602,12 +1045,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Networks Free Resources | This repo collects 13 of free resources for Neural Networks. 🧬 Explore the fascinating world of Neural Networks with our dedicated repository! Offering a comprehensive collection of free resources, courses, and a user-friendly online Playground, this is your labor...",
+            "homepage": "https://getvm.io/tutorials/category/neural-networks",
             "id": 822445323,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:34:39Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-neural-networks-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "neural-networks",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -618,12 +1073,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural Language Processing Free Resources | This repo collects 24 of free resources for Natural Language Processing. 🗣️ Unlock the power of language with our NLP Workshop repository! Featuring a comprehensive collection of free courses and resources on Natural Language Processing, along with an ...",
+            "homepage": "https://getvm.io/tutorials/category/natural-language-processing",
             "id": 822445381,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:34:45Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-natural-language-processing-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "natural-language-processing",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -634,12 +1101,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security Free Resources | This repo collects 38 of free resources for Security. 🔐 Become a guardian of the digital realm with our Security Sentinel repository! Offering a comprehensive collection of free cybersecurity resources and hands-on learning opportunities, this is your training ground for...",
+            "homepage": "https://getvm.io/tutorials/category/security",
             "id": 822445602,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:03Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-security-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -650,12 +1129,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js Free Resources | This repo collects 19 of free resources for Node.js. 🚀 Power up your server-side JavaScript with our Node.js Nexus! This repository provides a comprehensive collection of free Node.js resources and an online playground. Perfect for developers looking to build scalable, hi...",
+            "homepage": "https://getvm.io/tutorials/category/node-js",
             "id": 822445662,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:09Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-node-js-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "node-js",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -666,12 +1157,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional Programming Free Resources | This repo collects 32 of free resources for Functional Programming. λ Embrace the elegance of Functional Programming with our dedicated repository! Featuring a comprehensive collection of free resources, courses, and an interactive online Playground, this i...",
+            "homepage": "https://getvm.io/tutorials/category/functional-programming",
             "id": 822445842,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:26Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-functional-programming-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "functional-programming",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -682,12 +1185,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL Free Resources | This repo collects 24 of free resources for SQL. 🗃️ Master the language of data with our SQL Sandbox repository! Featuring a comprehensive collection of free resources, courses, and an online SQL playground, this is your training ground for querying, manipulating, and managin...",
+            "homepage": "https://getvm.io/tutorials/category/sql",
             "id": 822446145,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:35:57Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-sql-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -698,12 +1213,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unix Free Resources | This repo collects 21 of free resources for Unix. 💻 Navigate the powerful world of Unix with our Unix Command Center repository! Explore free Unix resources and courses to master essential concepts and gain practical experience. Perfect for system administrators, developers,...",
+            "homepage": "https://getvm.io/tutorials/category/unix",
             "id": 822446286,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:10Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-unix-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "unix"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -714,12 +1241,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Development Free Resources | This repo collects 79 of free resources for Web Development. 🌐 Craft the future of the web with our Web Dev Workshop repository! Explore a comprehensive collection of free courses and resources covering all aspects of web development. With an interactive online pl...",
+            "homepage": "https://getvm.io/tutorials/category/web-development",
             "id": 822446653,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:41Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-web-development-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -730,12 +1269,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Git Free Resources | This repo collects 28 of free resources for Git. 🌿 Version control your way to success with our Git Mastery repository! Featuring a collection of free Git resources and an interactive online Playground, this is your training ground for mastering Git and streamlining your soft...",
+            "homepage": "https://getvm.io/tutorials/category/git",
             "id": 822447053,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:17Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-git-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "git",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -746,12 +1297,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Structures Free Resources | This repo collects 61 of free resources for Data Structures. 🏗️ Build the foundations of efficient programming with our Data Structures Depot repository! Offering a wealth of free resources and hands-on learning opportunities, this is your construction site for ma...",
+            "homepage": "https://getvm.io/tutorials/category/data-structures",
             "id": 822447888,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:34Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-data-structures-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "data-structures",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -762,12 +1325,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Control Systems Free Resources | This repo collects 13 of free resources for Control Systems. 🎛️ Dive into the world of Control Systems with our comprehensive collection of free resources! This repository houses curated materials, online courses, and a unique interactive Playground to enhance you...",
+            "homepage": "https://getvm.io/tutorials/category/control-systems",
             "id": 822447944,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:40Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-control-systems-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "control-systems",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -778,12 +1353,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computer Graphics Free Resources | This repo collects 25 of free resources for Computer Graphics. 🎨 Bring your visual ideas to life with our Computer Graphics Studio! This repository offers a comprehensive collection of free resources on 2D and 3D graphics programming. With courses and an online ...",
+            "homepage": "https://getvm.io/tutorials/category/computer-graphics",
             "id": 822448697,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:39:53Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-computer-graphics-resources",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "computer-graphics",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -794,12 +1381,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS Free Resources | This repo collects 33 of free resources for CSS. 🎨 Transform your web designs with our CSS Stylist repository! Dive into a comprehensive collection of free resources and an interactive online playground dedicated to Cascading Style Sheets. Perfect for web developers and desig...",
+            "homepage": "https://getvm.io/tutorials/category/css",
             "id": 822446478,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:28Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-css-resources",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "awesome-list",
+              "css",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -810,12 +1409,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust Free Resources | This repo collects 14 of free resources for Rust. 🦀 Build robust and efficient systems with our Rust Foundry repository! Offering a wealth of free Rust resources and an online Playground, this is your workshop for mastering this modern, safe, and concurrent programming langu...",
+            "homepage": "https://getvm.io/tutorials/category/rust",
             "id": 822446798,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:53Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-rust-resources",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -826,12 +1437,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell Free Resources | This repo collects 12 of free resources for Haskell. λ Explore the elegance of functional programming with our Haskell Haven repository! Discover free Haskell resources and courses to master this powerful and expressive language. Perfect for those seeking a pure functiona...",
+            "homepage": "https://getvm.io/tutorials/category/haskell",
             "id": 822446855,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:36:58Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-haskell-resources",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "haskell",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -842,12 +1465,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game Development Free Resources | This repo collects 17 of free resources for Game Development. 🎮 Level up your game development skills with our Game Dev Arena repository! Explore a comprehensive collection of free resources and a hands-on online playground covering various aspects of game design...",
+            "homepage": "https://getvm.io/tutorials/category/game-development",
             "id": 822447175,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:28Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-game-development-resources",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "game-development",
+              "getvm",
+              "playground",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -858,12 +1493,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Free Resources | This repo collects 24 of free resources for TensorFlow. ⚡ Harness the power of machine learning with our TensorFlow Dojo repository! Featuring a comprehensive set of free TensorFlow learning materials and a hands-on online environment, this is your training ground for ...",
+            "homepage": "https://getvm.io/tutorials/category/tensorflow",
             "id": 822447245,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:37:35Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-tensorflow-resources",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -874,12 +1521,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby Free Resources | This repo collects 18 of free resources for Ruby. 💎 Discover the beauty of Ruby programming with our Ruby Gems collection! This repository showcases a carefully curated set of free Ruby resources, courses, and an interactive Playground. Ideal for those who appreciate the sim...",
+            "homepage": "https://getvm.io/tutorials/category/ruby",
             "id": 822448123,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:38:57Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-ruby-resources",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         },
@@ -890,12 +1549,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Version Control Free Resources | This repo collects 12 of free resources for Version Control. 🔄 Master the art of code management with our Version Control Vault! This repository provides a wealth of free resources and hands-on learning opportunities focused on version control systems. Essential f...",
+            "homepage": "https://getvm.io/tutorials/category/version-control",
             "id": 822448578,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-01T01:39:40Z",
+            "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-version-control-resources",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "playground",
+              "programming",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
         }
@@ -904,15 +1575,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:05:21.740Z",
+    "last_updated": "2026-08-29T05:05:31.141Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Cybersecurity Free Resources | This repo collects 14 of free resources for Cybersecurity. 🛡️ Arm yourself with knowledge from our Cybersecurity Arsenal! This repository houses an extensive collection of free resources and interactive online environments. Essential for anyone looking to enhance th...",
+      "homepage": "https://getvm.io/tutorials/category/cybersecurity",
       "id": 822448303,
       "language": null,
+      "license": null,
       "last_commit": "2025-05-01T01:39:14Z",
+      "open_issues": 0,
       "owner": "getvmio",
       "repo": "free-cybersecurity-resources",
-      "stars": 65
+      "stars": 65,
+      "topics": [
+        "awesome-list",
+        "cybersecurity",
+        "free-resources",
+        "getvm",
+        "playground",
+        "programming"
+      ]
     },
     "original_repository_sha": "a9f1e95e28bf183746bc92ead51db20321a820ae",
     "enhanced_repository": "enhansome/enhansome-free-cybersecurity-resources",
