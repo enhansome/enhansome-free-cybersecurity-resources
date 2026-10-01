@@ -42,6 +42,7 @@
 * [Free Algorithm Resources](https://github.com/getvmio/free-algorithm-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Database Resources](https://github.com/getvmio/free-database-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Blockchain Resources](https://github.com/getvmio/free-blockchain-resources) ⭐ 4 | 🐛 0 | 📅 2025-05-01
+* [Free Cloud Computing Resources](https://github.com/getvmio/free-cloud-computing-resources) ⭐ 4 | 🐛 0 | 📅 2025-05-01
 * [Free Artificial Intelligence Resources](https://github.com/getvmio/free-artificial-intelligence-resources) ⭐ 4 | 🐛 0 | 📅 2025-05-01
 * [Free Java Resources](https://github.com/getvmio/free-java-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
 * [Free PyTorch Resources](https://github.com/getvmio/free-pytorch-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
@@ -50,7 +51,6 @@
 * [Free Distributed Systems Resources](https://github.com/getvmio/free-distributed-systems-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
 * [Free Docker Resources](https://github.com/getvmio/free-docker-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
 * [Free Deep Learning Resources](https://github.com/getvmio/free-deep-learning-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
-* [Free Cloud Computing Resources](https://github.com/getvmio/free-cloud-computing-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
 * [Free Data Analysis Resources](https://github.com/getvmio/free-data-analysis-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
 * [Free React Resources](https://github.com/getvmio/free-react-resources) ⭐ 2 | 🐛 0 | 📅 2025-05-01
 * [Free Compiler Resources](https://github.com/getvmio/free-compiler-resources) ⭐ 2 | 🐛 0 | 📅 2025-05-01
@@ -82,4 +82,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
