@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Free C++ Resources",
-          "description": null,
+          "description": "getvmio/free-cpp-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Free Networking Resources",
-          "description": null,
+          "description": "getvmio/free-networking-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -62,7 +62,7 @@
         {
           "node_type": "item",
           "title": "Free DevOps Resources",
-          "description": null,
+          "description": "getvmio/free-devops-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "Free C Resources",
-          "description": null,
+          "description": "getvmio/free-c-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -118,7 +118,7 @@
         {
           "node_type": "item",
           "title": "Free Object-Oriented Programming Resources",
-          "description": null,
+          "description": "getvmio/free-object-oriented-programming-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,7 +146,7 @@
         {
           "node_type": "item",
           "title": "Free Operating System Resources",
-          "description": null,
+          "description": "getvmio/free-operating-system-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
         {
           "node_type": "item",
           "title": "Free Python Resources",
-          "description": null,
+          "description": "getvmio/free-python-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,7 +202,7 @@
         {
           "node_type": "item",
           "title": "Free Computer Science Resources",
-          "description": null,
+          "description": "getvmio/free-computer-science-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,7 +230,7 @@
         {
           "node_type": "item",
           "title": "Free Computer Architecture Resources",
-          "description": null,
+          "description": "getvmio/free-computer-architecture-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -258,7 +258,7 @@
         {
           "node_type": "item",
           "title": "Free Machine Learning Resources",
-          "description": null,
+          "description": "getvmio/free-machine-learning-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -286,7 +286,7 @@
         {
           "node_type": "item",
           "title": "Free Linux Resources",
-          "description": null,
+          "description": "getvmio/free-linux-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -314,7 +314,7 @@
         {
           "node_type": "item",
           "title": "Free Cryptography Resources",
-          "description": null,
+          "description": "getvmio/free-cryptography-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -342,7 +342,7 @@
         {
           "node_type": "item",
           "title": "Free Embedded Systems Resources",
-          "description": null,
+          "description": "getvmio/free-embedded-systems-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -370,7 +370,7 @@
         {
           "node_type": "item",
           "title": "Free Robotics Resources",
-          "description": null,
+          "description": "getvmio/free-robotics-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -398,7 +398,7 @@
         {
           "node_type": "item",
           "title": "Free Computer Vision Resources",
-          "description": null,
+          "description": "getvmio/free-computer-vision-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -426,7 +426,7 @@
         {
           "node_type": "item",
           "title": "Free Bash Resources",
-          "description": null,
+          "description": "getvmio/free-bash-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -454,7 +454,7 @@
         {
           "node_type": "item",
           "title": "Free Algorithm Resources",
-          "description": null,
+          "description": "getvmio/free-algorithm-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -482,7 +482,7 @@
         {
           "node_type": "item",
           "title": "Free Database Resources",
-          "description": null,
+          "description": "getvmio/free-database-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -510,7 +510,7 @@
         {
           "node_type": "item",
           "title": "Free Blockchain Resources",
-          "description": null,
+          "description": "getvmio/free-blockchain-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -538,7 +538,7 @@
         {
           "node_type": "item",
           "title": "Free Cloud Computing Resources",
-          "description": null,
+          "description": "getvmio/free-cloud-computing-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -566,7 +566,7 @@
         {
           "node_type": "item",
           "title": "Free Artificial Intelligence Resources",
-          "description": null,
+          "description": "getvmio/free-artificial-intelligence-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -594,7 +594,7 @@
         {
           "node_type": "item",
           "title": "Free Java Resources",
-          "description": null,
+          "description": "getvmio/free-java-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -622,7 +622,7 @@
         {
           "node_type": "item",
           "title": "Free PyTorch Resources",
-          "description": null,
+          "description": "getvmio/free-pytorch-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,7 +650,7 @@
         {
           "node_type": "item",
           "title": "Free Software Development Resources",
-          "description": null,
+          "description": "getvmio/free-software-development-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -678,7 +678,7 @@
         {
           "node_type": "item",
           "title": "Free Data Science Resources",
-          "description": null,
+          "description": "getvmio/free-data-science-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -706,7 +706,7 @@
         {
           "node_type": "item",
           "title": "Free Distributed Systems Resources",
-          "description": null,
+          "description": "getvmio/free-distributed-systems-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -734,7 +734,7 @@
         {
           "node_type": "item",
           "title": "Free Docker Resources",
-          "description": null,
+          "description": "getvmio/free-docker-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -762,7 +762,7 @@
         {
           "node_type": "item",
           "title": "Free Deep Learning Resources",
-          "description": null,
+          "description": "getvmio/free-deep-learning-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -790,7 +790,7 @@
         {
           "node_type": "item",
           "title": "Free Data Analysis Resources",
-          "description": null,
+          "description": "getvmio/free-data-analysis-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -818,7 +818,7 @@
         {
           "node_type": "item",
           "title": "Free React Resources",
-          "description": null,
+          "description": "getvmio/free-react-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -846,7 +846,7 @@
         {
           "node_type": "item",
           "title": "Free Compiler Resources",
-          "description": null,
+          "description": "getvmio/free-compiler-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -874,7 +874,7 @@
         {
           "node_type": "item",
           "title": "Free Programming Resources",
-          "description": null,
+          "description": "getvmio/free-programming-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -901,7 +901,7 @@
         {
           "node_type": "item",
           "title": "Free Shell Scripting Resources",
-          "description": null,
+          "description": "getvmio/free-shell-scripting-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -929,7 +929,7 @@
         {
           "node_type": "item",
           "title": "Free Go Resources",
-          "description": null,
+          "description": "getvmio/free-go-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -957,7 +957,7 @@
         {
           "node_type": "item",
           "title": "Free JavaScript Resources",
-          "description": null,
+          "description": "getvmio/free-javascript-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -985,7 +985,7 @@
         {
           "node_type": "item",
           "title": "Free HTML Resources",
-          "description": null,
+          "description": "getvmio/free-html-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1013,7 +1013,7 @@
         {
           "node_type": "item",
           "title": "Free R Resources",
-          "description": null,
+          "description": "getvmio/free-r-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1041,7 +1041,7 @@
         {
           "node_type": "item",
           "title": "Free Neural Networks Resources",
-          "description": null,
+          "description": "getvmio/free-neural-networks-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1069,7 +1069,7 @@
         {
           "node_type": "item",
           "title": "Free Natural Language Processing Resources",
-          "description": null,
+          "description": "getvmio/free-natural-language-processing-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1097,7 +1097,7 @@
         {
           "node_type": "item",
           "title": "Free Security Resources",
-          "description": null,
+          "description": "getvmio/free-security-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1125,7 +1125,7 @@
         {
           "node_type": "item",
           "title": "Free Node.js Resources",
-          "description": null,
+          "description": "getvmio/free-node-js-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1153,7 +1153,7 @@
         {
           "node_type": "item",
           "title": "Free Functional Programming Resources",
-          "description": null,
+          "description": "getvmio/free-functional-programming-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1181,7 +1181,7 @@
         {
           "node_type": "item",
           "title": "Free SQL Resources",
-          "description": null,
+          "description": "getvmio/free-sql-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1209,7 +1209,7 @@
         {
           "node_type": "item",
           "title": "Free Unix Resources",
-          "description": null,
+          "description": "getvmio/free-unix-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1237,7 +1237,7 @@
         {
           "node_type": "item",
           "title": "Free Web Development Resources",
-          "description": null,
+          "description": "getvmio/free-web-development-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1265,7 +1265,7 @@
         {
           "node_type": "item",
           "title": "Free Git Resources",
-          "description": null,
+          "description": "getvmio/free-git-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1293,7 +1293,7 @@
         {
           "node_type": "item",
           "title": "Free Data Structures Resources",
-          "description": null,
+          "description": "getvmio/free-data-structures-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1321,7 +1321,7 @@
         {
           "node_type": "item",
           "title": "Free Control Systems Resources",
-          "description": null,
+          "description": "getvmio/free-control-systems-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1349,7 +1349,7 @@
         {
           "node_type": "item",
           "title": "Free Ruby Resources",
-          "description": null,
+          "description": "getvmio/free-ruby-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1377,7 +1377,7 @@
         {
           "node_type": "item",
           "title": "Free Computer Graphics Resources",
-          "description": null,
+          "description": "getvmio/free-computer-graphics-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1405,7 +1405,7 @@
         {
           "node_type": "item",
           "title": "Free CSS Resources",
-          "description": null,
+          "description": "getvmio/free-css-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1433,7 +1433,7 @@
         {
           "node_type": "item",
           "title": "Free Rust Resources",
-          "description": null,
+          "description": "getvmio/free-rust-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1461,7 +1461,7 @@
         {
           "node_type": "item",
           "title": "Free Haskell Resources",
-          "description": null,
+          "description": "getvmio/free-haskell-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1489,7 +1489,7 @@
         {
           "node_type": "item",
           "title": "Free Game Development Resources",
-          "description": null,
+          "description": "getvmio/free-game-development-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1517,7 +1517,7 @@
         {
           "node_type": "item",
           "title": "Free TensorFlow Resources",
-          "description": null,
+          "description": "getvmio/free-tensorflow-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1545,7 +1545,7 @@
         {
           "node_type": "item",
           "title": "Free Version Control Resources",
-          "description": null,
+          "description": "getvmio/free-version-control-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1575,7 +1575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:44:19.172Z",
+    "last_updated": "2026-10-03T04:48:28.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cybersecurity Free Resources | This repo collects 14 of free resources for Cybersecurity. 🛡️ Arm yourself with knowledge from our Cybersecurity Arsenal! This repository houses an extensive collection of free resources and interactive online environments. Essential for anyone looking to enhance th...",
@@ -1587,7 +1587,7 @@
       "open_issues": 0,
       "owner": "getvmio",
       "repo": "free-cybersecurity-resources",
-      "stars": 67,
+      "stars": 68,
       "topics": [
         "awesome-list",
         "cybersecurity",
