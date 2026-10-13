@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "getvmio",
             "repo": "free-networking-resources",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "awesome-list",
               "free-resources",
@@ -109,34 +109,6 @@
               "c",
               "free-resources",
               "getvm",
-              "playground",
-              "programming"
-            ]
-          },
-          "first_seen": "2026-08-28T22:05:21.740Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Free Object-Oriented Programming Resources",
-          "description": "getvmio/free-object-oriented-programming-resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Object-Oriented Programming Free Resources | This repo collects 33 of free resources for Object-Oriented Programming. 🏛️ Embark on an Object-Oriented Programming journey with our OOP Odyssey repository! Dive into a comprehensive collection of free resources and courses on OOP principles and pract...",
-            "homepage": "https://getvm.io/tutorials/category/object-oriented-programming",
-            "id": 822446417,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-05-01T01:36:22Z",
-            "open_issues": 0,
-            "owner": "getvmio",
-            "repo": "free-object-oriented-programming-resources",
-            "stars": 9,
-            "topics": [
-              "awesome-list",
-              "free-resources",
-              "getvm",
-              "object-oriented-programming",
               "playground",
               "programming"
             ]
@@ -223,6 +195,34 @@
               "playground",
               "programming",
               "python"
+            ]
+          },
+          "first_seen": "2026-08-28T22:05:21.740Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Free Object-Oriented Programming Resources",
+          "description": "getvmio/free-object-oriented-programming-resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Object-Oriented Programming Free Resources | This repo collects 33 of free resources for Object-Oriented Programming. 🏛️ Embark on an Object-Oriented Programming journey with our OOP Odyssey repository! Dive into a comprehensive collection of free resources and courses on OOP principles and pract...",
+            "homepage": "https://getvm.io/tutorials/category/object-oriented-programming",
+            "id": 822446417,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-05-01T01:36:22Z",
+            "open_issues": 0,
+            "owner": "getvmio",
+            "repo": "free-object-oriented-programming-resources",
+            "stars": 8,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "object-oriented-programming",
+              "playground",
+              "programming"
             ]
           },
           "first_seen": "2026-08-28T22:05:21.740Z"
@@ -1575,7 +1575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:09:21.379Z",
+    "last_updated": "2026-10-13T19:08:31.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cybersecurity Free Resources | This repo collects 14 of free resources for Cybersecurity. 🛡️ Arm yourself with knowledge from our Cybersecurity Arsenal! This repository houses an extensive collection of free resources and interactive online environments. Essential for anyone looking to enhance th...",
