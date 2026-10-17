@@ -38,11 +38,11 @@
 * [Free Embedded Systems Resources](https://github.com/getvmio/free-embedded-systems-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Robotics Resources](https://github.com/getvmio/free-robotics-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Computer Vision Resources](https://github.com/getvmio/free-computer-vision-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
+* [Free Cloud Computing Resources](https://github.com/getvmio/free-cloud-computing-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Bash Resources](https://github.com/getvmio/free-bash-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Algorithm Resources](https://github.com/getvmio/free-algorithm-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Database Resources](https://github.com/getvmio/free-database-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Blockchain Resources](https://github.com/getvmio/free-blockchain-resources) ⭐ 4 | 🐛 0 | 📅 2025-05-01
-* [Free Cloud Computing Resources](https://github.com/getvmio/free-cloud-computing-resources) ⭐ 4 | 🐛 0 | 📅 2025-05-01
 * [Free Artificial Intelligence Resources](https://github.com/getvmio/free-artificial-intelligence-resources) ⭐ 4 | 🐛 0 | 📅 2025-05-01
 * [Free Java Resources](https://github.com/getvmio/free-java-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
 * [Free PyTorch Resources](https://github.com/getvmio/free-pytorch-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
@@ -82,4 +82,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
