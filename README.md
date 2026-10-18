@@ -33,9 +33,9 @@
 * [Free Object-Oriented Programming Resources](https://github.com/getvmio/free-object-oriented-programming-resources) ⭐ 8 | 🐛 0 | 📅 2025-05-01
 * [Free Computer Architecture Resources](https://github.com/getvmio/free-computer-architecture-resources) ⭐ 7 | 🐛 0 | 📅 2025-05-01
 * [Free Machine Learning Resources](https://github.com/getvmio/free-machine-learning-resources) ⭐ 7 | 🐛 0 | 📅 2025-05-01
+* [Free Embedded Systems Resources](https://github.com/getvmio/free-embedded-systems-resources) ⭐ 6 | 🐛 0 | 📅 2025-05-01
 * [Free Linux Resources](https://github.com/getvmio/free-linux-resources) ⭐ 6 | 🐛 0 | 📅 2025-05-01
 * [Free Cryptography Resources](https://github.com/getvmio/free-cryptography-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
-* [Free Embedded Systems Resources](https://github.com/getvmio/free-embedded-systems-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Robotics Resources](https://github.com/getvmio/free-robotics-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Computer Vision Resources](https://github.com/getvmio/free-computer-vision-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
 * [Free Cloud Computing Resources](https://github.com/getvmio/free-cloud-computing-resources) ⭐ 5 | 🐛 0 | 📅 2025-05-01
@@ -82,4 +82,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
