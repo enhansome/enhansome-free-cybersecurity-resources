@@ -24,12 +24,12 @@
 ## More
 
 * [Free C++ Resources](https://github.com/getvmio/free-cpp-resources) ⭐ 50 | 🐛 0 | 📅 2025-05-01
-* [Free Networking Resources](https://github.com/getvmio/free-networking-resources) ⭐ 37 | 🐛 0 | 📅 2025-05-01
+* [Free Networking Resources](https://github.com/getvmio/free-networking-resources) ⭐ 38 | 🐛 0 | 📅 2025-05-01
 * [Free C Resources](https://github.com/getvmio/free-c-resources) ⭐ 11 | 🐛 0 | 📅 2025-05-01
 * [Free DevOps Resources](https://github.com/getvmio/free-devops-resources) ⭐ 10 | 🐛 0 | 📅 2025-05-01
+* [Free Computer Science Resources](https://github.com/getvmio/free-computer-science-resources) ⭐ 9 | 🐛 0 | 📅 2025-05-01
 * [Free Python Resources](https://github.com/getvmio/free-python-resources) ⭐ 9 | 🐛 0 | 📅 2025-05-01
 * [Free Embedded Systems Resources](https://github.com/getvmio/free-embedded-systems-resources) ⭐ 9 | 🐛 0 | 📅 2025-05-01
-* [Free Computer Science Resources](https://github.com/getvmio/free-computer-science-resources) ⭐ 8 | 🐛 0 | 📅 2025-05-01
 * [Free Operating System Resources](https://github.com/getvmio/free-operating-system-resources) ⭐ 8 | 🐛 0 | 📅 2025-05-01
 * [Free Object-Oriented Programming Resources](https://github.com/getvmio/free-object-oriented-programming-resources) ⭐ 8 | 🐛 0 | 📅 2025-05-01
 * [Free Computer Architecture Resources](https://github.com/getvmio/free-computer-architecture-resources) ⭐ 7 | 🐛 0 | 📅 2025-05-01
@@ -82,4 +82,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
