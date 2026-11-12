@@ -24,7 +24,7 @@
 ## More
 
 * [Free C++ Resources](https://github.com/getvmio/free-cpp-resources) ⭐ 50 | 🐛 0 | 📅 2025-05-01
-* [Free Networking Resources](https://github.com/getvmio/free-networking-resources) ⭐ 39 | 🐛 0 | 📅 2025-05-01
+* [Free Networking Resources](https://github.com/getvmio/free-networking-resources) ⭐ 40 | 🐛 0 | 📅 2025-05-01
 * [Free C Resources](https://github.com/getvmio/free-c-resources) ⭐ 11 | 🐛 0 | 📅 2025-05-01
 * [Free DevOps Resources](https://github.com/getvmio/free-devops-resources) ⭐ 10 | 🐛 0 | 📅 2025-05-01
 * [Free Computer Science Resources](https://github.com/getvmio/free-computer-science-resources) ⭐ 9 | 🐛 0 | 📅 2025-05-01
@@ -82,4 +82,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
