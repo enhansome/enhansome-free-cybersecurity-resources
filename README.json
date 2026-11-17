@@ -145,6 +145,34 @@
         },
         {
           "node_type": "item",
+          "title": "Free Operating System Resources",
+          "description": "getvmio/free-operating-system-resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Operating System Free Resources | This repo collects 36 of free resources for Operating System. 🖥️ Delve into the core of computing with our OS Kernel repository! Offering a comprehensive collection of free resources on operating systems and an interactive online playground, this is your lab for ...",
+            "homepage": "https://getvm.io/tutorials/category/operating-system",
+            "id": 822445912,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-05-01T01:35:32Z",
+            "open_issues": 0,
+            "owner": "getvmio",
+            "repo": "free-operating-system-resources",
+            "stars": 9,
+            "topics": [
+              "awesome-list",
+              "free-resources",
+              "getvm",
+              "operating-system",
+              "playground",
+              "programming"
+            ]
+          },
+          "first_seen": "2026-08-28T22:05:21.740Z"
+        },
+        {
+          "node_type": "item",
           "title": "Free Python Resources",
           "description": "getvmio/free-python-resources",
           "children": [],
@@ -193,34 +221,6 @@
               "embedded-systems",
               "free-resources",
               "getvm",
-              "playground",
-              "programming"
-            ]
-          },
-          "first_seen": "2026-08-28T22:05:21.740Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Free Operating System Resources",
-          "description": "getvmio/free-operating-system-resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Operating System Free Resources | This repo collects 36 of free resources for Operating System. 🖥️ Delve into the core of computing with our OS Kernel repository! Offering a comprehensive collection of free resources on operating systems and an interactive online playground, this is your lab for ...",
-            "homepage": "https://getvm.io/tutorials/category/operating-system",
-            "id": 822445912,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-05-01T01:35:32Z",
-            "open_issues": 0,
-            "owner": "getvmio",
-            "repo": "free-operating-system-resources",
-            "stars": 8,
-            "topics": [
-              "awesome-list",
-              "free-resources",
-              "getvm",
-              "operating-system",
               "playground",
               "programming"
             ]
@@ -1575,7 +1575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:51:40.774Z",
+    "last_updated": "2026-11-17T20:42:32.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cybersecurity Free Resources | This repo collects 14 of free resources for Cybersecurity. 🛡️ Arm yourself with knowledge from our Cybersecurity Arsenal! This repository houses an extensive collection of free resources and interactive online environments. Essential for anyone looking to enhance th...",
