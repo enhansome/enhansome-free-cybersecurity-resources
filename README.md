@@ -54,6 +54,7 @@
 * [Free Docker Resources](https://github.com/getvmio/free-docker-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
 * [Free Deep Learning Resources](https://github.com/getvmio/free-deep-learning-resources) ⭐ 3 | 🐛 0 | 📅 2025-05-01
 * [Free React Resources](https://github.com/getvmio/free-react-resources) ⭐ 2 | 🐛 0 | 📅 2025-05-01
+* [Free Security Resources](https://github.com/getvmio/free-security-resources) ⭐ 2 | 🐛 0 | 📅 2025-05-01
 * [Free Compiler Resources](https://github.com/getvmio/free-compiler-resources) ⭐ 2 | 🐛 0 | 📅 2025-05-01
 * [Free Programming Resources](https://github.com/getvmio/free-programming-resources) ⭐ 2 | 🐛 1 | 📅 2025-05-01
 * [Free Go Resources](https://github.com/getvmio/free-go-resources) ⭐ 2 | 🐛 0 | 📅 2025-05-01
@@ -64,7 +65,6 @@
 * [Free R Resources](https://github.com/getvmio/free-r-resources) ⭐ 1 | 🐛 0 | 📅 2025-05-01
 * [Free Neural Networks Resources](https://github.com/getvmio/free-neural-networks-resources) ⭐ 1 | 🐛 0 | 📅 2025-05-01
 * [Free Natural Language Processing Resources](https://github.com/getvmio/free-natural-language-processing-resources) ⭐ 1 | 🐛 0 | 📅 2025-05-01
-* [Free Security Resources](https://github.com/getvmio/free-security-resources) ⭐ 1 | 🐛 0 | 📅 2025-05-01
 * [Free Node.js Resources](https://github.com/getvmio/free-node-js-resources) ⭐ 1 | 🐛 0 | 📅 2025-05-01
 * [Free Functional Programming Resources](https://github.com/getvmio/free-functional-programming-resources) ⭐ 1 | 🐛 0 | 📅 2025-05-01
 * [Free SQL Resources](https://github.com/getvmio/free-sql-resources) ⭐ 1 | 🐛 0 | 📅 2025-05-01
@@ -82,4 +82,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
